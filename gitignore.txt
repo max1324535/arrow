@@ -1,0 +1,22 @@
+# ---- Arduino build output ----
+build/
+*.hex
+*.elf
+*.bin
+*.eep
+*.lst
+*.map
+*.o
+*.d
+*.a
+
+# ---- Editors ----
+.vscode/
+.idea/
+*.swp
+*~
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
